@@ -1,2 +1,2 @@
-plutonium server list:
-http://pluto-servers.ddns.net
+
+https://codservers.ddns.net/
